@@ -727,6 +727,7 @@ Migeen Magar - let'sss gooooooo
  main
 - [Teki Shodo](https://github.com/tekisho) - **Hi :3!**
 - [Angel Rosales](https://github.com/angelrosaleslopez-source) - My first open-source contribution!
+- [Raj Bhatt](https://github.com/rajbhatt2406-collab)- This is my first contribution ever.
 - [Gayatri Arvind Gundad](https://github.com/Gayatri-tech24)-My first contribution!! So excited to start my developer journey.
 - [Sandeep K G] (https://github.com/Sandeepkg123) - hello everyone 
 John Doe 2026
